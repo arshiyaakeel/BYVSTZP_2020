@@ -1,9 +1,9 @@
-# mop_SMARTseq/fastqs/LS-15395_S41_E1-50	mop_SMARTseq/fastqs/LS-15395_S41_E1-50_R1.fastq.gz 	mop_SMARTseq/fastqs/LS-15395_S41_E1-50_R2.fastq.gz
-# mop_SMARTseq/fastqs/LS-15395_S42_E1-50	mop_SMARTseq/fastqs/LS-15395_S42_E1-50_R1.fastq.gz 	mop_SMARTseq/fastqs/LS-15395_S42_E1-50_R2.fastq.gz
-# mop_SMARTseq/fastqs/LS-15395_S43_E1-50	mop_SMARTseq/fastqs/LS-15395_S43_E1-50_R1.fastq.gz 	mop_SMARTseq/fastqs/LS-15395_S43_E1-50_R2.fastq.gz
-# mop_SMARTseq/fastqs/LS-15395_S44_E1-50	mop_SMARTseq/fastqs/LS-15395_S44_E1-50_R1.fastq.gz 	mop_SMARTseq/fastqs/LS-15395_S44_E1-50_R2.fastq.gz
-# mop_SMARTseq/fastqs/LS-15395_S45_E1-50	mop_SMARTseq/fastqs/LS-15395_S45_E1-50_R1.fastq.gz 	mop_SMARTseq/fastqs/LS-15395_S45_E1-50_R2.fastq.gz
-# mop_SMARTseq/fastqs/LS-15395_S46_E1-50	mop_SMARTseq/fastqs/LS-15395_S46_E1-50_R1.fastq.gz 	mop_SMARTseq/fastqs/LS-15395_S46_E1-50_R2.fastq.gz
+mop_SMARTseq/fastqs/LS-15395_S41_E1-50	mop_SMARTseq/fastqs/LS-15395_S41_E1-50_R1.fastq.gz 	mop_SMARTseq/fastqs/LS-15395_S41_E1-50_R2.fastq.gz
+mop_SMARTseq/fastqs/LS-15395_S42_E1-50	mop_SMARTseq/fastqs/LS-15395_S42_E1-50_R1.fastq.gz 	mop_SMARTseq/fastqs/LS-15395_S42_E1-50_R2.fastq.gz
+mop_SMARTseq/fastqs/LS-15395_S43_E1-50	mop_SMARTseq/fastqs/LS-15395_S43_E1-50_R1.fastq.gz 	mop_SMARTseq/fastqs/LS-15395_S43_E1-50_R2.fastq.gz
+mop_SMARTseq/fastqs/LS-15395_S44_E1-50	mop_SMARTseq/fastqs/LS-15395_S44_E1-50_R1.fastq.gz 	mop_SMARTseq/fastqs/LS-15395_S44_E1-50_R2.fastq.gz
+mop_SMARTseq/fastqs/LS-15395_S45_E1-50	mop_SMARTseq/fastqs/LS-15395_S45_E1-50_R1.fastq.gz 	mop_SMARTseq/fastqs/LS-15395_S45_E1-50_R2.fastq.gz
+mop_SMARTseq/fastqs/LS-15395_S46_E1-50	mop_SMARTseq/fastqs/LS-15395_S46_E1-50_R1.fastq.gz 	mop_SMARTseq/fastqs/LS-15395_S46_E1-50_R2.fastq.gz
 mop_SMARTseq/fastqs/LS-15395_S47_E1-50	mop_SMARTseq/fastqs/LS-15395_S47_E1-50_R1.fastq.gz 	mop_SMARTseq/fastqs/LS-15395_S47_E1-50_R2.fastq.gz
 mop_SMARTseq/fastqs/LS-15395_S48_E1-50	mop_SMARTseq/fastqs/LS-15395_S48_E1-50_R1.fastq.gz 	mop_SMARTseq/fastqs/LS-15395_S48_E1-50_R2.fastq.gz
 mop_SMARTseq/fastqs/LS-15395_S49_E1-50	mop_SMARTseq/fastqs/LS-15395_S49_E1-50_R1.fastq.gz 	mop_SMARTseq/fastqs/LS-15395_S49_E1-50_R2.fastq.gz
